@@ -48,16 +48,14 @@
       "h2_6":"Atualizações Regulares e Novo Conteúdo",
       "h2_6_p1":"Os desenvolvedores do Disaster Arena estão comprometidos em manter o jogo fresco e envolvente introduzindo regularmente novos minijogos, desafios e recursos. Isso garante que os jogadores sempre tenham novo conteúdo para se esperar e que o jogo permaneça dinâmico e desafiador."
     },
-    "playInfos":{
-      "h2_0":"Como Jogar Disaster Arena",
-      "h2_1":"Não se Apresse",
-      "h2_1_p1":"Como o Disaster Arena é projetado para ser um jogo calmante e relaxante, não há necessidade de se apressar. Dê-se o tempo necessário para desfrutar do processo de organização e limpeza. O ritmo mais lento pode ajudar a reduzir o estresse e promover um sentido de tranquilidade.",
-      "h2_2":"Engaje-se com os Sons",
-      "h2_2_p1":"Preste atenção aos sons ASMR que acompanham suas ações no jogo. Esses sons são projetados para melhorar sua relaxação e fornecer uma experiência mais imersiva. Use fones de ouvido para a melhor experiência de áudio.",
-      "h2_3":"Concentre-se nos Detalhes",
-      "h2_3_p1":"Disaster Arena não é apenas sobre completar tarefas rapidamente; também é sobre a satisfação de criar ordem e beleza. Dê-se o tempo de arrumar itens de uma maneira que lhe agrade visualmente, pois isso pode adicionar à sensação geral de realização.",
-      "h2_4":"Use-o como uma Escapada Digital",
-      "h2_4_p1":"Trate o Disaster Arena como uma forma de meditação digital. Use o jogo como uma maneira de se desconectar do mundo exterior e se concentrar nas tarefas simples e satisfatórias ao seu alcance. Isso pode ajudar a clarear sua mente e fornecer um momento de paz em seu dia."
+    "playInfos": {
+      "h2_0": "Como Jogar o Disaster Arena",
+      "h2_1_p1": "W / Seta para cima: Mover para frente",
+      "h2_2_p1": "S / Seta para baixo: Mover para trás",
+      "h2_3_p1": "A / Seta para a esquerda: Mover para a esquerda",
+      "h2_4_p1": "D / Seta para a direita: Mover para a direita",
+      "h2_5_p1": "Mouse: Girar câmera / Olhar ao redor",
+      "h2_6_p1": "Barra de espaço: Pular"
     },
     "testimonialInfos":{
       "h2_0":"O que Nossos Jogadores Dizem",

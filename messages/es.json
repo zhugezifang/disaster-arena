@@ -49,15 +49,13 @@
     "h2_6_p1": "Los desarrolladores de Disaster Arena se comprometen a mantener el juego fresco y atractivo mediante la introducción regular de nuevos minijuegos, desafíos y características. Esto asegura que los jugadores siempre tengan nuevo contenido por delante y que el juego permanezca dinámico y desafiante."
   },
   "playInfos": {
-    "h2_0": "Cómo Jugar a Disaster Arena",
-    "h2_1": "Tómate tu Tiempo",
-    "h2_1_p1": "Dado que Disaster Arena está diseñado para ser un juego calmante y relajante, no hay necesidad de apresurarte. Tómate tu tiempo para disfrutar del proceso de ordenar y organizar. El ritmo más lento puede ayudar a reducir el estrés y promover un sentido de tranquilidad.",
-    "h2_2": "Involucrarte con los Sonidos",
-    "h2_2_p1": "Presta atención a los sonidos ASMR que acompañan a tus acciones en el juego. Estos sonidos están destinados a mejorar tu relajación y proporcionar una experiencia más inmersiva. Usa auriculares para la mejor experiencia de audio.",
-    "h2_3": "Céntrate en los Detalles",
-    "h2_3_p1": "Disaster Arena no se trata solo de completar tareas rápidamente; también se trata de la satisfacción de crear orden y belleza. Tómate el tiempo para organizar los elementos de una manera que te guste visualmente, ya que esto puede agregar al sentido general de logro.",
-    "h2_4": "Usalo como una Escapada Digital",
-    "h2_4_p1": "Trata a Disaster Arena como una forma de meditación digital. Usa el juego como una manera de desconectarte del mundo exterior y concentrarte en las tareas simples y satisfactorias que tienes a mano. Esto puede ayudar a clarificar tu mente y proporcionar un momento de paz en tu día."
+    "h2_0": "Cómo Jugar Disaster Arena",
+    "h2_1_p1": "W / Flecha hacia arriba: Mover hacia adelante",
+    "h2_2_p1": "S / Flecha hacia abajo: Mover hacia atrás",
+    "h2_3_p1": "A / Flecha hacia la izquierda: Mover hacia la izquierda",
+    "h2_4_p1": "D / Flecha hacia la derecha: Mover hacia la derecha",
+    "h2_5_p1": "Ratón: Girar cámara / Mira a tu alrededor",
+    "h2_6_p1": "Barra espaciadora: Saltar"
   },
   "testimonialInfos": {
     "h2_0": "Lo que dicen nuestros Jugadores",

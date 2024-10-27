@@ -49,14 +49,12 @@
   },
   "playInfos": {
     "h2_0": "How to Play Disaster Arena",
-    "h2_1": "Take Your Time",
-    "h2_1_p1": "Since Disaster Arena is designed to be a calming and relaxing game, there's no need to rush. Take your time to enjoy the process of tidying up and organizing. The slower pace can help reduce stress and promote a sense of tranquility.",
-    "h2_2": "Engage with the Sounds",
-    "h2_2_p1": "Pay attention to the ASMR sounds that accompany your actions in the game. These sounds are meant to enhance your relaxation and provide a more immersive experience. Use headphones for the best audio experience.",
-    "h2_3": "Focus on the Details",
-    "h2_3_p1": "Disaster Arena is not just about completing tasks quickly; it's also about the satisfaction of creating order and beauty. Take the time to arrange items in a way that pleases you visually, as this can add to the overall sense of accomplishment.",
-    "h2_4": "Use It as a Digital Escape",
-    "h2_4_p1": "Treat Disaster Arena as a form of digital meditation. Use the game as a way to disconnect from the outside world and focus on the simple, satisfying tasks at hand. This can help clear your mind and provide a moment of peace in your day."
+    "h2_1_p1": "W / Up Arrow: Move forward",
+    "h2_2_p1": "S / Down Arrow: Move backward",
+    "h2_3_p1": "A / Left Arrow: Strafe left",
+    "h2_4_p1": "D / Right Arrow: Strafe right",
+    "h2_5_p1": "Mouse: Rotate camera / Look around",
+    "h2_6_p1": "Spacebar: Jump"
   },
   "testimonialInfos": {
     "h2_0": "What Our Players Say",

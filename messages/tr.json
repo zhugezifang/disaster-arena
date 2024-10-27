@@ -49,15 +49,13 @@
       "h2_6_p1": "Afet Arena'nın geliştiricileri, oyunun yeni ve ilgi çekici olmasını sağlamak için düzenli olarak yeni mini-oyunlar, zorluklar ve özellikler sunmaya kararlıdır. Bu, oyuncuların her zaman yeni içerik bekleyebileceklerini ve oyunun dinamik ve zorlu olmasını sağlar."
     },
     "playInfos": {
-      "h2_0": "Afet Arena'yı Nasıl Oynatılır",
-      "h2_1": "Zamanınızı Alın",
-      "h2_1_p1": "Afet Arena, sakinleştirici ve rahatlatıcı bir oyun olarak tasarlandığından, hızla oynamanız gerekmez. İşleri düzenleme ve temizleme sürecini oynatmayı keyifli kılmak için zamanınızı alırken. Daha yavaş bir tempo, stresin azalmasına ve rahatlık hissinin teşvik edilmesine yardımcı olabilir.",
-      "h2_2": "Seslerle Etkileşimde Bulunun",
-      "h2_2_p1": "Oyun içindeki eylemlerinizle birlikte gelen ASMR seslerine dikkat edin. Bu sesler, rahatlığınızı artırmak ve daha fazla kapsamlı bir deneyim sağlamak için tasarlanmıştır. En iyi ses deneyimi için kulaklık kullanın.",
-      "h2_3": "Ayrıntılara Odaklanın",
-      "h2_3_p1": "Afet Arena, sadece görevleri hızlı bir şekilde tamamlamakla ilgili değildir; aynı zamanda düzen ve güzelliği yaratmanın tatmini de içerir. Görsel olarak size tatmini vereceği şekilde eşyaları düzenlemek için zaman ayırın, bu da genel olarak başarı hissini artırabilir.",
-      "h2_4": "Bir Dijital Kaçış Olarak Kullanın",
-      "h2_4_p1": "Afet Arena'yı bir dijital meditasyon biçimi olarak görün. Oyunü, dış dünyadan bağlantıyı kesmek ve basit, tatmin edici görevlere odaklanmak için kullanın. Bu, zihininizi temizlemeye ve gündüzünüzde bir an rahatlık sağlamaya yardımcı olabilir."
+        "h2_0": "Fırtına Arenasını Nasıl Oynatılır",
+        "h2_1_p1": "W / Yukarı Ok: İlerle",
+        "h2_2_p1": "S / Aşağı Ok: Geri git",
+        "h2_3_p1": "A / Sol Ok: Sola kaydır",
+        "h2_4_p1": "D / Sağ Ok: Sağa kaydır",
+        "h2_5_p1": "Fare: Kamerayı döndür / Çevreyi incele",
+        "h2_6_p1": "Boşluk Tuşu: Zıpla"
     },
     "testimonialInfos": {
       "h2_0": "Oyuncularımızın Söylediği",

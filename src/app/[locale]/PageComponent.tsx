@@ -102,7 +102,7 @@ const PageComponent = ({
       />
       <script
           async
-          src={`https://www.googletagmanager.com/gtag/js?id=G-KBVHH6SP3N`}
+          src={`https://www.googletagmanager.com/gtag/js?id=G-X26TGS8N64`}
         />
         <script
           dangerouslySetInnerHTML={{
@@ -110,7 +110,7 @@ const PageComponent = ({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-KBVHH6SP3N');
+              gtag('config', 'G-X26TGS8N64');
             `,
           }}
         />
@@ -135,27 +135,29 @@ const PageComponent = ({
 
             <div className="rounded-lg border bg-card text-card-foreground h-full bg-indigo-50 from-blue-50 to-indigo-100 shadow-lg">
               <div className="flex flex-col space-y-1.5 p-6 pb-2">
-                <h2 className="text-2xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl text-center">How to Play Disaster Arena</h2></div>
+                <h2 className="text-2xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl text-center">{indexPlayInfoText.h2_0}</h2>
+              </div>
               <div className="p-6 pt-4">
                 <ul className="space-y-3">
                   <li className="flex items-start">
                     <span className="inline-block w-6 h-6 mr-3 text-white bg-indigo-500 rounded-full flex items-center justify-center text-sm font-semibold">1</span>
-                    <span className="text-gray-700">W / Up Arrow: Move forward</span></li>
+                    <span className="text-gray-700">{indexPlayInfoText.h2_1_p1}</span></li>
                   <li className="flex items-start">
                     <span className="inline-block w-6 h-6 mr-3 text-white bg-indigo-500 rounded-full flex items-center justify-center text-sm font-semibold">2</span>
-                    <span className="text-gray-700">S / Down Arrow: Move backward</span></li>
+                    <span className="text-gray-700">{indexPlayInfoText.h2_2_p1}</span></li>
                   <li className="flex items-start">
                     <span className="inline-block w-6 h-6 mr-3 text-white bg-indigo-500 rounded-full flex items-center justify-center text-sm font-semibold">3</span>
-                    <span className="text-gray-700">A / Left Arrow: Strafe left</span></li>
+                    <span className="text-gray-700">{indexPlayInfoText.h2_3_p1}</span></li>
                   <li className="flex items-start">
                     <span className="inline-block w-6 h-6 mr-3 text-white bg-indigo-500 rounded-full flex items-center justify-center text-sm font-semibold">4</span>
-                    <span className="text-gray-700">D / Right Arrow: Strafe right</span></li>
+                    <span className="text-gray-700">{indexPlayInfoText.h2_4_p1}</span></li>
                   <li className="flex items-start">
                     <span className="inline-block w-6 h-6 mr-3 text-white bg-indigo-500 rounded-full flex items-center justify-center text-sm font-semibold">5</span>
-                    <span className="text-gray-700">Mouse: Rotate camera / Look around</span></li>
+                    <span className="text-gray-700">{indexPlayInfoText.h2_5_p1}</span></li>
                   <li className="flex items-start">
                     <span className="inline-block w-6 h-6 mr-3 text-white bg-indigo-500 rounded-full flex items-center justify-center text-sm font-semibold">6</span>
-                    <span className="text-gray-700">Spacebar: Jump</span></li>
+                    <span className="text-gray-700">{indexPlayInfoText.h2_6_p1}</span>
+                  </li>
                 </ul>
               </div>
             </div>
