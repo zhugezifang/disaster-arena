@@ -27,10 +27,10 @@
     "h2_4_p1":"The controls for Disaster Arena are straightforward, making it accessible for new players. You move your character with the WASD keys or arrow keys, use the mouse to adjust the camera view, and press the spacebar to jump. Esc key opens the menu where you can create your own room or join others. The game also features an animal menu, an unlock cursor, and various other controls for different actions like using weapons and changing skins.",
     "h2_5":"How can I access Disaster Arena on different platforms?",
     "h2_5_p1":"Disaster Arena is designed to be platform-independent, meaning you can access it on various devices. You can play it directly in your web browser on your computer or use the WebCatalog Desktop application to enhance your experience on Mac or Windows (PC). The game is also optimized for mobile play, so you can enjoy it on your phone or tablet through the browser.",
-    "h2_6":"Is there a community or support for Disaster Arena?",
-    "h2_6_p1":"While the information provided doesn't detail a specific community forum for Disaster Arena, the game is hosted on Poki, which has a broad player base. You can interact with other players within the game and vote for your favorite mini-games. For support, you can reach out through the Poki platform or check the game's page for any provided support links or contact information.",
-    "h2_7":"Are there any updates or new features coming to Disaster Arena?",
-    "h2_7_p1":"As of the latest information, Disaster Arena is already packed with features such as power-ups, pet adoption, and exploration elements. While there's no specific mention of upcoming updates, given that it's an online game, it's likely that the developers will introduce new mini-games, challenges, or features to keep the game fresh and engaging for players. Keep an eye on the game's official channels or Poki for any announcements regarding updates."
+    "h2_6":"Can I play Disaster Arena with unblocked online?",
+    "h2_6_p1":"Yes, you can play Disaster Arena with unblocked online! It is designed as a multiplayer game, allowing you to join your friends in various competitive mini-games. Players can team up, vote for their favorite games, and compete against each other to see who comes out on top. The game emphasizes survival amidst chaotic environments, making it not only fun but also strategic as you navigate through disasters and challenges together",
+    "h2_7":"How to download Disaster Arena?",
+    "h2_7_p1":"You can download Disaster Arena through the WebCatalog desktop application, which is available for both Mac and Windows. This app allows you to run the game in a distraction-free window and manage multiple accounts easily."
   },
   "featureInfos": {
     "h2_0": "The Feature Of Disaster Arena",
@@ -104,5 +104,10 @@
     "h4_7_p": "We may update these Terms from time to time. We will notify users of any material changes via email.",
     "h4_8": "8、Contact Information:",
     "h4_8_p": "If you have any questions or concerns regarding our Privacy Policy, please contact us at "
+  },
+  "downLoadInfo":{
+    "h2_0":"",
+    "h2_1_p1":"",
+    "h2"
   }
 }
