@@ -76,7 +76,7 @@ const ImageSplitter = ({
   return (
               <div
                 className={"w-[100%] mx-auto rounded-tl-[30px] rounded-tr-[30px] object-fill"} >
-                        <iframe src="https://html5.gamedistribution.com/rvvASMiM/88adc972f6bc4956be084fe44998a531/index.html?utm_source=uutool.cn&utm_medium=organizer-master&utm_campaign=block-and-redirect&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2h0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tLzg4YWRjOTcyZjZiYzQ5NTZiZTA4NGZlNDQ5OThhNTMxLz91dG1fc291cmNlPXV1dG9vbC5jbiZ1dG1fbWVkaXVtPW9yZ2FuaXplci1tYXN0ZXImdXRtX2NhbXBhaWduPWJsb2NrLWFuZC1yZWRpcmVjdCIsInBhcmVudERvbWFpbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidG9wRG9tYWluIjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNyJ9" allow="autoplay"  style={{ top: '0px', left: '0px',width: '100%', height: '800px'}}></iframe>
+                        <iframe src="https://g.igroutka.ru/games/760/pP8hwNgq2r4z6L5E/b34682ee-a412-4acc-82b7-c8c45821975f/index.html" allow="autoplay"  style={{ top: '0px', left: '0px',width: '100%', height: '700px'}}></iframe>
 
               </div>
             
