@@ -375,6 +375,15 @@ const PageComponent = ({
               </section>
             </div>
 
+
+            <div
+              className="mx-auto flex max-w-4xl flex-col items-center text-center pt-10">
+              <h2 className="mb-4 text-4xl font-bold md:text-4xl">{indexLanguageText.contact_h2}</h2>
+            </div>
+
+            <iframe src="https://tally.so/r/3xN5Jy" allow="autoplay"  style={{ width: '100%', height: '600px',frameborder:'0px'}}></iframe>
+
+
           </div>
 
           
