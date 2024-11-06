@@ -381,7 +381,8 @@ const PageComponent = ({
               <h2 className="mb-4 text-4xl font-bold md:text-4xl">{indexLanguageText.contact_h2}</h2>
             </div>
 
-            <iframe src="https://tally.so/r/3xN5Jy" style={{ width: '100%', height: '600px'}}></iframe>
+
+            <iframe src="https://tally.so/embed/3xN5Jy?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" style={{ width: '100%', height: '350px'}}></iframe>
 
 
           </div>
