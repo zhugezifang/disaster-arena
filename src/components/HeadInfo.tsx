@@ -10,7 +10,11 @@ const HeadInfo = ({
     <>
       <title>{title}</title>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4158779929727637"
-           crossOrigin="anonymous"></script> 
+           crossOrigin="anonymous"></script>
+
+      <script async src='https://platform-api.sharethis.com/js/sharethis.js#property=6714ad2d10ca00001277ac7d&product=sop'>
+        
+      </script> 
       <meta name="description" content={description}/>
       {
         languages.map((item) => {
