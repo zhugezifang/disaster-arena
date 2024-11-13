@@ -102,7 +102,7 @@ export default function Footer({
               target="_blank"
               className="text-white font-bold"
             >
-              Perfect Tidy
+              Disaster Arena
             </a>{" "}
             All rights reserved.
           </p>
