@@ -28,7 +28,7 @@ export default function Footer({
                 src="/favicon.svg"
                 width={32}
                 height={32}
-                alt="Image Splitter"
+                alt="Disaster Arena"
               />
             </a>
             <p className="text-sm text-white">
