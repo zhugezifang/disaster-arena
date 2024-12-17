@@ -133,6 +133,33 @@ const PageComponent = ({
                 <ImageSplitter locale={locale} indexLanguageText={indexLanguageText}/>
             </div>
 
+            <div className="py-10 px-6">
+              <div className="flex items-center justify-between mb-6">
+                <span className="text-3xl font-bold">Hot Game</span>
+                <a href="#" className="text-sm text-blue-500 hover:underline">
+                  </a></div>
+              <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-6">
+                <a href="https://perfect-tidy.online/" target='_blank'>
+                  <div className="text-center">
+                    <div className="relative w-full h-32 bg-black rounded-lg overflow-hidden">
+                      <img src="perfect-tidy.jpg" alt="Perfect Tidy" className="object-cover w-full h-full"/></div>
+                    <p className="mt-2 text-sm">Perfect Tidy</p></div>
+                </a>
+                <a href="https://combinations-game.online/" target='_blank'>
+                  <div className="text-center">
+                    <div className="relative w-full h-32 bg-black rounded-lg overflow-hidden">
+                      <img src="https://perfect-tidy.online/combinations-game.jpg" alt="combinations game" className="object-cover w-full h-full"/></div>
+                    <p className="mt-2 text-sm">combinations game</p></div>
+                </a>
+                <a href="https://8090-game.online/en/game/supermario-online" target='_blank'>
+                  <div className="text-center">
+                    <div className="relative w-full h-32 bg-black rounded-lg overflow-hidden">
+                      <img src="https://8090-game.online/images/supermario.png" alt="supermario game" className="object-cover w-full h-full"/></div>
+                    <p className="mt-2 text-sm">super mario game</p></div>
+                </a>
+              </div>
+            </div>
+
             <div className="rounded-lg border bg-card text-card-foreground h-full bg-indigo-50 from-blue-50 to-indigo-100 shadow-lg">
               <div className="flex flex-col space-y-1.5 p-6 pb-2">
                 <h2 className="text-2xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl text-center">{indexPlayInfoText.h2_0}</h2>
